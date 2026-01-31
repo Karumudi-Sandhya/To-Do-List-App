@@ -1,4 +1,4 @@
-**To-Do-List App**
+**To-Do-List APP**
 
 A simple and smart Todo List application that helps users organize daily tasks efficiently.
 It allows users to add, update, and manage tasks with a clean and user-friendly interface.
@@ -116,8 +116,11 @@ README.md – Project documentation and usage details
 
 **Author**
 
-Karumudi Samdhya/n
-CLOUDX Mini Project Task/n
-Computer Science-Data Science/n
-DRKCET/n
+Karumudi Sandhya
+
+CLOUDX Mini Project Task
+
+Computer Science-Data Science
+
+DRKCET
 
