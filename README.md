@@ -1,16 +1,16 @@
-#To-Do-List App
+**To-Do-List App**
 
 A simple and smart Todo List application that helps users organize daily tasks efficiently.
 It allows users to add, update, and manage tasks with a clean and user-friendly interface.
 
-#Overview
+**Overview**
 
 The Todo List App is designed to help users plan their day by keeping track of tasks in one place.
 It focuses on simplicity, speed, and smart task handling, making it suitable for everyday personal use. The app improves productivity by allowing users to manage tasks without confusion or clutter.
 
-#Features
+**Features**
 
-Todoist App – Information
+**Todoist App– Information**
 
 Todoist helps users organize tasks, goals, and daily activities in one place.
 
@@ -22,7 +22,7 @@ The app works across devices, keeping tasks synced and up to date.
 
 It focuses on productivity, simplicity, and long-term task tracking.
 
-#Smart Functionality
+**Smart Functionality**
 
 Smart task recognition that understands natural language input.
 
@@ -32,7 +32,7 @@ Priority-based task sorting for better focus.
 
 Productivity tracking to analyze task completion patterns.
 
-#User Experience
+**User Experience**
 
 Minimal and distraction-free design
 
@@ -42,7 +42,7 @@ Easy navigation for beginners
 
 Fast response to user actions
 
-#Technologies Used
+**Technologies Used**
 
 HTML – Structure of the application
 
@@ -52,7 +52,7 @@ JavaScript – Logic, task handling, and smart functionality
 
 GitHub – Version control and project hosting
 
-#Project Structure
+**Project Structure**
 
 index.html – Main structure of the Todo List app
 
@@ -62,7 +62,7 @@ script.js – Core logic and task management functionality
 
 README.md – Project documentation and usage details
 
-#How the Application Works
+**How the Application Works**
 
 User enters a task in the input field
 
@@ -74,7 +74,7 @@ Users can remove tasks using the delete option
 
 JavaScript updates the task list dynamically without refreshing the page
 
-#Example Inputs
+**Example Inputs**
 
 Buy groceries
 
@@ -84,7 +84,7 @@ Workout for 30 minutes
 
 Prepare for interview
 
-#API / Configuration
+**API / Configuration**
 
 No external APIs are used
 
@@ -92,7 +92,7 @@ The application works completely on the client side
 
 JavaScript handles all task operations and interactions
 
-#Learning Outcomes
+**Learning Outcomes**
 
 Improved understanding of DOM manipulation
 
@@ -102,7 +102,7 @@ Better knowledge of HTML structure and CSS styling
 
 Understanding how to build interactive web applications
 
-#Future Enhancements
+**Future Enhancements**
 
 Add local storage to save tasks permanently
 
@@ -114,7 +114,7 @@ Improve UI with animations and themes
 
 Convert into a full-stack application in the future
 
-#Author
+**Author**
 
 Karumudi Samdhya
 CLOUDX Mini Project Task
