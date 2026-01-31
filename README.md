@@ -12,15 +12,16 @@ It focuses on simplicity, speed, and smart task handling, making it suitable for
 
 **Todoist App– Information**
 
-Todoist helps users organize tasks, goals, and daily activities in one place.
+## CONTRIBUTORS
+-Todoist helps users organize tasks, goals, and daily activities in one place.
 
-It supports task creation with deadlines, priorities, and labels for better clarity.
+-It supports task creation with deadlines, priorities, and labels for better clarity.
 
-Users can manage both personal and professional tasks efficiently.
+-Users can manage both personal and professional tasks efficiently.
 
-The app works across devices, keeping tasks synced and up to date.
-
-It focuses on productivity, simplicity, and long-term task tracking.
+-The app works across devices, keeping tasks synced and up to date.
+ 
+-It focuses on productivity, simplicity, and long-term task tracking.
 
 **Smart Functionality**
 
