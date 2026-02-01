@@ -1,33 +1,28 @@
-const addBtn = document.getElementById("addBtn");
-const taskInput = document.getElementById("taskInput");
-const taskList = document.getElementById("taskList");
-
-addBtn.addEventListener("click", addTask);
-
 function addTask() {
-    if (taskInput.value === "") {
+    const input = document.getElementById("taskInput");
+    const taskText = input.value.trim();
+
+    if (taskText === "") {
         alert("Please enter a task");
         return;
     }
 
-    let li = document.createElement("li");
-    let span = document.createElement("span");
-    let delBtn = document.createElement("button");
+    const li = document.createElement("li");
+    li.innerHTML = `
+        <span onclick="toggleTask(this)">${taskText}</span>
+        <button onclick="removeTask(this)">X</button>
+    `;
 
-    span.textContent = taskInput.value;
-    delBtn.textContent = "Delete";
+    document.getElementById("taskList").appendChild(li);
+    input.value = "";
+}
 
-    span.addEventListener("click", () => {
-        span.classList.toggle("completed");
-    });
+function toggleTask(task) {
+    task.classList.toggle("completed");
+}
 
-    delBtn.addEventListener("click", () => {
-        li.remove();
-    });
+function removeTask(btn) {
+    btn.parentElement.remove();
+}
 
-    li.appendChild(span);
-    li.appendChild(delBtn);
-    taskList.appendChild(li);
-
-    taskInput.value = "";
 }
