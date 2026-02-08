@@ -4,7 +4,7 @@
 
 * Any basic laptop or desktop computer
 
-* Minimum 2 GB RAM
+* Minimum 4 GB RAM
 
 * Keyboard and mouse for interaction
 
@@ -14,7 +14,7 @@
 
 * Any modern web browser (Chrome, Edge, Firefox)
 
-* Text editor (VS Code, Notepad++, Sublime)
+* Code editor (VS Code, Notepad++, Sublime)
 
 * Operating System: Windows / Linux / macOS
 
@@ -28,22 +28,28 @@
 
 * JavaScript – Task creation, deletion, and status control
 
+* Browser LocalStorage – Data persistence
+
 ## Functional Requirements
 
-* User can add tasks using the input box
+* User should be able to add a task
 
-* User can mark tasks as completed by clicking on them
+* User should be able to edit and delete tasks
 
-* User can remove tasks instantly
+* User should be able to mark tasks as completed
 
-* Tasks appear dynamically without page reload
+* User should be able to filter tasks
+
+* System should store tasks after page refresh
 
 ## Non-Functional Requirements
 
-* Application should be simple and easy to understand
+* Application should be easy to use
 
-* Tasks should be added and removed quickly
+* Interface should be visually clear and responsive
+  
+* Data should load quickly
 
-* UI should be visually clear and responsive
+* Code should be maintainable and readable
 
-* App should work smoothly without external libraries
+* Application should work without internet
