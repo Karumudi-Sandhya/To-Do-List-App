@@ -6,7 +6,7 @@ This is a web-based To-Do List application built using HTML, CSS, and JavaScript
 
 Allows users to add, edit, delete, and complete tasks.Displays tasks based on status (All, Completed, Pending).Shows real-time date and time.Automatically switches between day and night mode.Saves tasks using browser localStorage.
 
-## 🔗Features
+## 🔗Features implemented 
 
 **Todoist App– Information**
 
